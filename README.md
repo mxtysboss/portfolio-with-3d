@@ -35,7 +35,7 @@ The site is designed with modern aesthetics, animations, and interactivity in mi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/my-portfolio.git
+git clone https://github.com/mxtysboss/my-portfolio.git
 ```
 
 2. Install dependencies:

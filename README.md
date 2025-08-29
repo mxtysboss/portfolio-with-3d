@@ -25,7 +25,6 @@ The site is designed with modern aesthetics, animations, and interactivity in mi
     - Projects.js
   /assets
     - images
-    - 3dModels
   App.js
   index.js
 ```
